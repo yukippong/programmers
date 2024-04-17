@@ -1,3 +1,6 @@
+// 프로그래머스 삼각 달팽이 - Level 2
+// https://school.programmers.co.kr/app/courses/16558/curriculum/lessons/163724#part-40048
+
 import java.util.Arrays;
 
 public class App {
@@ -74,7 +77,7 @@ public class App {
                     answerIndex++;
                 }
             }
-            System.out.println();
+            // System.out.println();
         }
         
         return answer;
